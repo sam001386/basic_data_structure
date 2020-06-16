@@ -1,6 +1,7 @@
 ## Union Find/disjoint set
 ## Detect cycle in an undirected graph
-## Non optimization version
+## Non optimization version:
+## Reference: https://www.youtube.com/watch?v=gpmOaSBcbYA
 vertices = 6
 
 def find_root(x, parent):

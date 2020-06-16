@@ -1,6 +1,6 @@
 ## Union Find/disjoint set
 ## Detect cycle in an undirected graph
-## Non optimization version:
+## Not optimized version:
 ## Reference: https://www.youtube.com/watch?v=gpmOaSBcbYA
 vertices = 6
 

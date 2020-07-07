@@ -19,7 +19,7 @@ def slow_method():
     
 slow_method()
 
-###### Fibonacci ########3
+###### Example1: Fibonacci
 
 class Mycache(object):
     def __init__(self, func):

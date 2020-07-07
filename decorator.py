@@ -31,6 +31,8 @@ class Mycache(object):
             self.cache[args] = self.func(*args)
         return self.cache[args]
 
+### We can also use functools to implement Mycache: 
+### @functools.lru_cache(None)
 @Mycache
 def fib(n):
     if n <= 1:
